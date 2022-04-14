@@ -3,7 +3,7 @@ function mysqlexec($sql)
 {
 	$host = "localhost"; // Host name
 	$username = "root"; // Mysql username
-	$password = ""; // Mysql password
+	$password = "1234"; // Mysql password
 	$db_name = "matrimony"; // Database name 
 
 	// Connect to server and select databse.
