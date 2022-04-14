@@ -2,7 +2,7 @@
  	<div class="container">
  		<div class="col-md-4 col_2">
  			<h4>About Us</h4>
- 			<p>"Designed By Akash, Pooja, Divya & Vini. Doing for HMI & CC Project.by using PHP + My Sql, JS, HTML, and CSS"</p>
+ 			<p>"Designed By Akash, Pooja, Divya & Vini. Doing for HMI & CC Project by using PHP + MySQL, JavaScript, HTML, and CSS"</p>
  		</div>
  		<div class="col-md-2 col_2">
  			<h4>Help & Support</h4>
