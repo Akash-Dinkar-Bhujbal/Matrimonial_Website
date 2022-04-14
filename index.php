@@ -329,42 +329,7 @@
 							<div class="post-content">Vadhu Var Melawa for All caste Unmarried/ Divorcee/ All Age Group people at Chabildas School, Dadar West.</div>
 						</div>
 					</div>
-					<!-- <div class="religion">
-						<div class="religion_1-title">Religion :</div>
-						<a href="#" target="_blank" class="religion_1" title="Hindu Matrimonial" style="padding-left:0px !important;">Hindu</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Muslim Matrimonial">Muslim</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Christian Matrimonial">Christian</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Sikh Matrimonial">Sikh</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Inter Religion Matrimonial">Inter Religion</a>
-					</div>
-					<div class="religion">
-						<div class="religion_1-title">Country :</div>
-						<a href="#" target="_blank" class="religion_1" title="Hindu Matrimonial" style="padding-left:0px !important;">India</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Muslim Matrimonial">Australia</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Christian Matrimonial">Russia</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Sikh Matrimonial">India</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Inter Religion Matrimonial">Kuwait</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Inter Religion Matrimonial">Uk</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Inter Religion Matrimonial">View All</a>
-					</div>
-					<div class="religion">
-						<div class="religion_1-title">Caste :</div>
-						<a href="#" target="_blank" class="religion_1" title="Hindu Matrimonial" style="padding-left:0px !important;">Brahmin</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Muslim Matrimonial">Kapu</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Christian Matrimonial">Kamma</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Sikh Matrimonial">Padmasali</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Inter Religion Matrimonial">Reddy</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Inter Religion Matrimonial">View All</a>
-					</div>
-					<div class="religion">
-						<div class="religion_1-title">Regional :</div>
-						<a href="#" target="_blank" class="religion_1" title="Hindu Matrimonial" style="padding-left:0px !important;">Urdu</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Muslim Matrimonial">Hindi</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Christian Matrimonial">Telugu</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Sikh Matrimonial">Marwadi</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Inter Religion Matrimonial">Oriya</a>
-						<span>|</span><a href="#" target="_blank" class="religion_1" title="Inter Religion Matrimonial">View All</a>
-					</div> -->
+
 				</div>
 				<div class="clearfix"> </div>
 			</div>
